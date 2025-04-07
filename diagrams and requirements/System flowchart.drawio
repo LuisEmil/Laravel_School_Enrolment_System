@@ -1,0 +1,238 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8" pages="2">
+  <diagram name="General Enrolment Process" id="QrqV6nJuwhumOjq4Dcwq">
+    <mxGraphModel dx="1120" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NiEK9skpQXtyTE8Aj7mv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CX4-qPC9XmgY7yVuw8mV-1" target="NiEK9skpQXtyTE8Aj7mv-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CX4-qPC9XmgY7yVuw8mV-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NiEK9skpQXtyTE8Aj7mv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NiEK9skpQXtyTE8Aj7mv-1" target="NiEK9skpQXtyTE8Aj7mv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NiEK9skpQXtyTE8Aj7mv-1" value="Screening" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NiEK9skpQXtyTE8Aj7mv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NiEK9skpQXtyTE8Aj7mv-2" target="NiEK9skpQXtyTE8Aj7mv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NiEK9skpQXtyTE8Aj7mv-2" value="Requirements&lt;div&gt;Check&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NiEK9skpQXtyTE8Aj7mv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NiEK9skpQXtyTE8Aj7mv-3" target="NiEK9skpQXtyTE8Aj7mv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NiEK9skpQXtyTE8Aj7mv-3" value="Records&lt;div&gt;Check&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NiEK9skpQXtyTE8Aj7mv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NiEK9skpQXtyTE8Aj7mv-4" target="NiEK9skpQXtyTE8Aj7mv-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NiEK9skpQXtyTE8Aj7mv-4" value="Payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NiEK9skpQXtyTE8Aj7mv-10" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="500" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-nETKtDyxcr7rBgTnZUb" name="DFD">
+    <mxGraphModel dx="880" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zTnfON_QCN2oDUBrQQc9-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zTnfON_QCN2oDUBrQQc9-6" target="zTnfON_QCN2oDUBrQQc9-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zTnfON_QCN2oDUBrQQc9-6" value="Enrollee" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="350" y="40" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zTnfON_QCN2oDUBrQQc9-7" value="Screening Officer" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="350" y="280" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zTnfON_QCN2oDUBrQQc9-8" value="Registrar Staff" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="520" y="190" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zTnfON_QCN2oDUBrQQc9-9" value="Cashier" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="180" y="190" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3zwQFBJAoZ-4infrFY9E-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zTnfON_QCN2oDUBrQQc9-11" target="zTnfON_QCN2oDUBrQQc9-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3zwQFBJAoZ-4infrFY9E-24" value="Student Information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3zwQFBJAoZ-4infrFY9E-23">
+          <mxGeometry x="-0.1489" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zTnfON_QCN2oDUBrQQc9-11" value="Student Accounts" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="633" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3zwQFBJAoZ-4infrFY9E-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zTnfON_QCN2oDUBrQQc9-12" target="zTnfON_QCN2oDUBrQQc9-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3zwQFBJAoZ-4infrFY9E-31" value="Enrollee Records" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3zwQFBJAoZ-4infrFY9E-30">
+          <mxGeometry x="-0.0078" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zTnfON_QCN2oDUBrQQc9-12" value="Student Records" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" parent="1" vertex="1">
+          <mxGeometry x="550" y="806" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zTnfON_QCN2oDUBrQQc9-14" value="Payment Records" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" parent="1" vertex="1">
+          <mxGeometry x="510" y="846" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zTnfON_QCN2oDUBrQQc9-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="zTnfON_QCN2oDUBrQQc9-15" target="zTnfON_QCN2oDUBrQQc9-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zTnfON_QCN2oDUBrQQc9-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="zTnfON_QCN2oDUBrQQc9-15" target="zTnfON_QCN2oDUBrQQc9-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zTnfON_QCN2oDUBrQQc9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="zTnfON_QCN2oDUBrQQc9-15" target="zTnfON_QCN2oDUBrQQc9-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zTnfON_QCN2oDUBrQQc9-15" value="Enrolment Process" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="350" y="190" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3zwQFBJAoZ-4infrFY9E-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zTnfON_QCN2oDUBrQQc9-23" target="zTnfON_QCN2oDUBrQQc9-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3zwQFBJAoZ-4infrFY9E-11" value="Filled Forms" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3zwQFBJAoZ-4infrFY9E-10">
+          <mxGeometry x="-0.1562" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3zwQFBJAoZ-4infrFY9E-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zTnfON_QCN2oDUBrQQc9-23" target="zTnfON_QCN2oDUBrQQc9-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3zwQFBJAoZ-4infrFY9E-19" value="Enrolment Approval/New student Information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3zwQFBJAoZ-4infrFY9E-18">
+          <mxGeometry x="-0.0481" y="1" relative="1" as="geometry">
+            <mxPoint x="43" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zTnfON_QCN2oDUBrQQc9-23" value="1. Screening" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="288" y="584" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3zwQFBJAoZ-4infrFY9E-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="zTnfON_QCN2oDUBrQQc9-24" target="zTnfON_QCN2oDUBrQQc9-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3zwQFBJAoZ-4infrFY9E-22" value="Enrolment Requirments/&amp;nbsp;&lt;div&gt;Student information&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3zwQFBJAoZ-4infrFY9E-21">
+          <mxGeometry x="-0.2308" y="2" relative="1" as="geometry">
+            <mxPoint x="7" y="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zTnfON_QCN2oDUBrQQc9-24" value="2. Requirements Check" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="288" y="668" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3zwQFBJAoZ-4infrFY9E-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="zTnfON_QCN2oDUBrQQc9-25" target="zTnfON_QCN2oDUBrQQc9-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3zwQFBJAoZ-4infrFY9E-29" value="Current/Remaining&amp;nbsp;&lt;div&gt;Payments&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3zwQFBJAoZ-4infrFY9E-28">
+          <mxGeometry x="0.0141" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3zwQFBJAoZ-4infrFY9E-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zTnfON_QCN2oDUBrQQc9-25" target="zTnfON_QCN2oDUBrQQc9-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3zwQFBJAoZ-4infrFY9E-33" value="Enrollee Records" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3zwQFBJAoZ-4infrFY9E-32">
+          <mxGeometry x="0.0147" y="2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zTnfON_QCN2oDUBrQQc9-25" value="3. Records&lt;div&gt;Check&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="288" y="752" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3zwQFBJAoZ-4infrFY9E-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zTnfON_QCN2oDUBrQQc9-26" target="zTnfON_QCN2oDUBrQQc9-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3zwQFBJAoZ-4infrFY9E-38" value="Enrolle Payment" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3zwQFBJAoZ-4infrFY9E-37">
+          <mxGeometry x="-0.6026" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3zwQFBJAoZ-4infrFY9E-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zTnfON_QCN2oDUBrQQc9-26" target="zTnfON_QCN2oDUBrQQc9-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3zwQFBJAoZ-4infrFY9E-42" value="Update" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3zwQFBJAoZ-4infrFY9E-41">
+          <mxGeometry x="0.1311" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zTnfON_QCN2oDUBrQQc9-26" value="4. Payment" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="288" y="836" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3zwQFBJAoZ-4infrFY9E-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zTnfON_QCN2oDUBrQQc9-27" target="zTnfON_QCN2oDUBrQQc9-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3zwQFBJAoZ-4infrFY9E-8" value="Filled Forms" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3zwQFBJAoZ-4infrFY9E-3">
+          <mxGeometry x="0.1825" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3zwQFBJAoZ-4infrFY9E-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zTnfON_QCN2oDUBrQQc9-27" target="zTnfON_QCN2oDUBrQQc9-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3zwQFBJAoZ-4infrFY9E-20" value="Enrolment Requirments" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3zwQFBJAoZ-4infrFY9E-4">
+          <mxGeometry x="0.0197" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3zwQFBJAoZ-4infrFY9E-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zTnfON_QCN2oDUBrQQc9-27" target="zTnfON_QCN2oDUBrQQc9-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3zwQFBJAoZ-4infrFY9E-36" value="Payment" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3zwQFBJAoZ-4infrFY9E-7">
+          <mxGeometry x="0.4234" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zTnfON_QCN2oDUBrQQc9-27" value="Enrollee" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="40" y="710" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3zwQFBJAoZ-4infrFY9E-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zTnfON_QCN2oDUBrQQc9-28" target="zTnfON_QCN2oDUBrQQc9-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3zwQFBJAoZ-4infrFY9E-16" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Enrolment%20Approval%2F%26amp%3Bnbsp%3B%26lt%3Bdiv%26gt%3BEncode%20new%20student%20information%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22334%22%20y%3D%22457%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Enrolment%20Approval%2F%26amp%3Bnbsp%3B%26lt%3Bdiv%26gt%3BEncode%20new%20student%20information%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22334%22%20y%3D%22457%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3zwQFBJAoZ-4infrFY9E-12">
+          <mxGeometry x="-0.6731" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3zwQFBJAoZ-4infrFY9E-17" value="Enrolment Approval/&amp;nbsp;&lt;div&gt;Encoding new student information&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3zwQFBJAoZ-4infrFY9E-12">
+          <mxGeometry x="-0.6731" y="-3" relative="1" as="geometry">
+            <mxPoint x="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zTnfON_QCN2oDUBrQQc9-28" value="Screening Officer" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="288" y="430" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3zwQFBJAoZ-4infrFY9E-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="zTnfON_QCN2oDUBrQQc9-29" target="zTnfON_QCN2oDUBrQQc9-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3zwQFBJAoZ-4infrFY9E-35" value="Enrolle Payments" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3zwQFBJAoZ-4infrFY9E-34">
+          <mxGeometry x="-0.017" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zTnfON_QCN2oDUBrQQc9-29" value="Registrar Staff" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="550" y="713" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3zwQFBJAoZ-4infrFY9E-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="zTnfON_QCN2oDUBrQQc9-30" target="zTnfON_QCN2oDUBrQQc9-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3zwQFBJAoZ-4infrFY9E-40" value="Update Payment records" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3zwQFBJAoZ-4infrFY9E-39">
+          <mxGeometry x="-0.3791" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zTnfON_QCN2oDUBrQQc9-30" value="Cashier" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="400" y="950" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
