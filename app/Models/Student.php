@@ -5,6 +5,7 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use App\Models\User;
+use App\Models\studentRecords;
 
 class Student extends Model
 {
@@ -12,6 +13,11 @@ class Student extends Model
     public function user()
     {
         return $this->belongsTo(User::class);
+    }
+
+    public function studentRecords()
+    {
+        return $this->hasMany(StudentRecords::class);
     }
 
     protected $fillable = [
