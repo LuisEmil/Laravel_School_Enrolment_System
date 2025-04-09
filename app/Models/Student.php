@@ -31,7 +31,6 @@ class Student extends Model
         'place_of_birth',
         'address',
         'last_school_attended',
-        'grade_level',
         'father_name',
         'mother_name',
         'guardian_name',

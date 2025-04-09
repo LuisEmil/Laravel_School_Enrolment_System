@@ -15,6 +15,8 @@ class MainController extends Controller
             return view('dashboard.admin', compact('user'));
         } elseif ($user->role == 'student') {
             return view('dashboard.student', compact('user'));
+        }else {
+            return view('dashboard.formPage');
         }
     }
 }
