@@ -19,6 +19,14 @@ h3 {
     @apply text-2xl font-medium text-primary-dark;
 }
 
+p {
+    @apply text-base text-grayscale-dark py-0.5;
+}
+
+strong {
+    @apply text-primary-dark;
+}
+
 /* Links */
 a {
     @apply text-primary-vivid hover:underline;
@@ -31,7 +39,7 @@ a {
 
 /* Cards */
 .card {
-    @apply bg-white shadow-md p-4 rounded-lg border border-grayscale-light;
+    @apply bg-white shadow-md p-4 rounded-s border border-grayscale-light;
 }
 
 /* Forms */
@@ -60,7 +68,7 @@ select:focus {
 }
 
 .card {
-    @apply bg-white shadow-lg rounded-2xl p-6;
+    @apply bg-white shadow-lg rounded-none p-6;
 }
 
 .alert-success {
