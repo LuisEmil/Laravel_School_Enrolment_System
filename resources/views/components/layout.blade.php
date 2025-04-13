@@ -13,7 +13,7 @@
         @yield('content')
     </main>
     <footer>
-        <h1>luezy50@gmail.com</h1>
+        
     </footer>
 </body>
 </html>
