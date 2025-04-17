@@ -1,3 +1,8 @@
+<!-- 
+Display student records for the current year in card format by default
+Student records for previous years are presented in the list and ca be expanded
+-->
+
 <script src="//unpkg.com/alpinejs" defer></script>
 <div class="card">
     <div class="card-body">

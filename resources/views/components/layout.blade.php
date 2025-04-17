@@ -1,3 +1,7 @@
+<!-- 
+Global layout for the system 
+-->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

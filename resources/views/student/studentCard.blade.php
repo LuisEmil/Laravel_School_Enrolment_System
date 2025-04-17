@@ -1,3 +1,7 @@
+<!-- 
+Displays student's personal information 
+-->
+
 <div class="card">
     <h1 class="p-1">{{ $user->student->first_name }} {{ $user->student->last_name }}</h1>
     <!-- {{ $user->student->middle_name ? $user->student->middle_name . ' ' : '' }} -->

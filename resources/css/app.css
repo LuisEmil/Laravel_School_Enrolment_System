@@ -13,10 +13,10 @@ h1 {
     @apply text-4xl font-bold text-primary-dark;
 }
 h2 {
-    @apply text-3xl font-semibold text-primary-dark;
+    @apply text-2xl font-semibold text-primary-dark;
 }
 h3 {
-    @apply text-2xl font-medium text-primary-dark;
+    @apply text-lg font-medium text-primary-dark;
 }
 
 p {

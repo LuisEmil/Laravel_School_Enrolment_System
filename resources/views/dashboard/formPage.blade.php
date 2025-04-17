@@ -1,3 +1,7 @@
+<!-- User - Student accounts only
+Students registration form for students with no accounts yet 
+-->
+
 @extends('components.layout')
 
 @section('title', 'Registration Form')

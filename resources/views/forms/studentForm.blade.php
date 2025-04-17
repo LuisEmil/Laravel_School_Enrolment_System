@@ -1,3 +1,8 @@
+<!-- Users -    usable by ADMIN and TEACHERS for on site registration
+                usable by STUDENTS for online registration
+Forms for registering new students and creating their student account
+-->
+
 <form action="{{ route('students.store') }}" method="POST" class="bg-white p-6 rounded-lg shadow-s max-w-3xl mx-auto">
     @csrf
     <h2 class="text-lg font-semibold text-primary-dark mb-4">Student Registration Form</h2>

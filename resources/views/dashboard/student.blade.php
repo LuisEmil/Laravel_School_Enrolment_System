@@ -1,9 +1,13 @@
+<!-- User - Student accounts only
+Student dashboard view 
+-->
+
 @extends('components.layout')
 
 @section('title', 'Home')
 
 @section('header')
-    @include('components.header', ['pageTitle' => 'Dashboard'])
+    @include('components.header', ['pageTitle' => 'Student Dashboard'])
 @endsection
 
 @section('content')
